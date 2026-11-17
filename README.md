@@ -33,6 +33,7 @@ npm run dev           # abre o app em http://localhost:3000
 - `docs/15c-codigo-importacao-etiquetas.md`: código com prefixo livre, importar a planilha de coleta, etiquetas de item e aviso de "acabou o estoque"
 - `docs/16a-testes.md`: testes automáticos, teste de ponta a ponta (`npm run e2e`) e roteiro no celular
 - `docs/17-netlify.md`: publicar o site na Netlify com o banco no Supabase na nuvem
+- `docs/18-importar-coleta.md`: levar as peças e fotos da coleta para o banco (código, estoque, endereços)
 - `PROGRESSO.md`: o que já foi feito, decisões e pendências
 
 ## Abrir o sistema com duplo clique (Windows)
