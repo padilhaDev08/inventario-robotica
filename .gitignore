@@ -24,3 +24,6 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+
+# Dados reais da coleta (planilha convertida): ficam só no PC, não vão para o GitHub
+dados-coleta/
